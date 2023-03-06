@@ -1,0 +1,7 @@
+{
+	"url":"http://url_name.pl:5984/",
+	"db_name":"db_name/",
+	"username":"username",
+	"password":"password",
+	"authentication":"true"
+}
